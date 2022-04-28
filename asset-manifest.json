@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tajo/static/css/main.5b839f40.css",
+    "main.js": "/tajo/static/js/main.bc62c398.js",
+    "static/js/787.65dea073.chunk.js": "/tajo/static/js/787.65dea073.chunk.js",
+    "index.html": "/tajo/index.html",
+    "main.5b839f40.css.map": "/tajo/static/css/main.5b839f40.css.map",
+    "main.bc62c398.js.map": "/tajo/static/js/main.bc62c398.js.map",
+    "787.65dea073.chunk.js.map": "/tajo/static/js/787.65dea073.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b839f40.css",
+    "static/js/main.bc62c398.js"
+  ]
+}
